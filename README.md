@@ -74,9 +74,7 @@ project-root/
 ## 🔐 Environment Variables
 
 ### Backend (.env)
-PORT=8000  
-MONGO_URL=your_mongodb_connection_string  
-SECRET_KEY=your_jwt_secret  
+PORT=8000   
 
 ### Frontend (.env)
 VITE_API_BASE_URL=http://localhost:8000/api
@@ -112,7 +110,3 @@ npm run dev
 
 **Bhavesh**  
 MERN Stack Developer (Frontend & Backend + REST APIs)
-
----
-
-⭐ If you like this project, please star the repository!
